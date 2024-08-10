@@ -1,0 +1,63 @@
+.body {
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+.navbar {
+  background-color: rgb(242, 174, 0);
+  border-radius: 25px;
+  height: 50px;
+  margin-top: 10px;
+}
+
+.navbar ul {
+  overflow: auto;
+}
+
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 10px 20px;
+}
+ul {
+  padding: 1px;
+  list-style: none;
+  font-family: cursive;
+  font-size: 1.5rem; 
+   color: rgb(242, 174, 0);
+   
+}
+.navbar li a {
+  padding: 10px 10px;
+  text-decoration: none;
+  font-family: cursive;
+}
+.resume {
+  text-align: center;
+}
+.resume a {
+  color: rgb(242, 174, 0);
+  text-decoration: none;
+}
+
+p {
+  text-decoration: none;
+  color: rgb(242, 174, 0);
+  font-family: cursive;
+  font-size: large;
+  font-size: 1.5rem;
+}
+h1 {
+  font-family: cursive;
+  font-size: xxx-large;
+  color: rgb(242, 174, 0);
+  padding: 20px;
+}
+li {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.contact{
+  color: white;
+  text-decoration: underline;
+}
